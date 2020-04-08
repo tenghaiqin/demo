@@ -1,0 +1,10 @@
+
+# 屏幕掉src/文件
+src/
+
+# 屏掉 python缓存文件 pyc\pyo\pyd 后缀  
+
+ *.py[cod]
+
+
+
